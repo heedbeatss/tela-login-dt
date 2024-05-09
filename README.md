@@ -2,11 +2,11 @@ Tela de Login
 Este é um projeto pessoal de uma tela de login desenvolvida para facilitar o acesso a uma aplicação. Esta tela permite que os usuários ingressem com seu nome de usuário e senha para acessar o sistema.
 
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 HTML5
 CSS3
-Google Fonts (Noto Sans)
-Funcionalidades
+
+Funcionalidades:
 Permite que os usuários insiram seu nome de usuário e senha para fazer login.
 Estilizado de forma responsiva para se adaptar a diferentes tamanhos de tela.
 Validação de entrada básica: os campos de usuário e senha são obrigatórios.
