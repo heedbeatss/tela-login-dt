@@ -1,4 +1,4 @@
-Tela de Login
+**Tela de Login**
 
 Este é um projeto pessoal de uma tela de login desenvolvida para facilitar o acesso a uma aplicação. Esta tela permite que os usuários ingressem com seu nome de usuário e senha para acessar o sistema.
 
@@ -10,7 +10,7 @@ HTML5
 CSS3
 
 
-Funcionalidades:
+**Funcionalidades:**
 
 Permite que os usuários insiram seu nome de usuário e senha para fazer login.
 
@@ -23,7 +23,7 @@ Botão "Login" para enviar as credenciais e tentar fazer login.
 Design atraente e moderno, com cores suaves e uma aparência profissional.
 
 
-Instruções de Uso:
+**Instruções de Uso:**
 
 Abra o arquivo index.html em qualquer navegador da web.
 
